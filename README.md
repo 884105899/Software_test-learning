@@ -1,2 +1,2 @@
-# Software_test-learning
-Some experience in learning software testing
+# 自动化软件测试学习
+一些自动化软件测试的学习经历
